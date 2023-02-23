@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PresentTimer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PresentTimer_jar</output-path>
+    <root id="archive" name="PresentTimer.jar">
+      <element id="module-output" name="PresentTimer" />
+    </root>
+  </artifact>
+</component>
